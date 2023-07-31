@@ -41,3 +41,7 @@ Customization
 If you wish to customize the character sets used for password generation, you can modify the lowercase, uppercase, numbers, and specialCharacters arrays with your preferred characters.
 
 Please note that this password generator is intended for educational purposes and should not be used for critical security purposes. For secure password management, consider using specialized password management software.
+
+
+Site: https://brlumar.github.io/magic_password_generator_reloaded/
+Repo: https://github.com/brlumar/magic_password_generator_reloaded
