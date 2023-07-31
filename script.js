@@ -12,7 +12,7 @@ var valueChecker = false;
 function getUserInput() {
 
 
-  var amount = Number(prompt('Please provide an amount between 8 and 128')); //changes the string into a number
+  var amount = Number(prompt('How many characters would you like in your password? Choose a number between 8 and 128.')); //changes the string into a number
   // if (amount >=8 && amount <=128){
 
   // }
