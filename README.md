@@ -45,3 +45,5 @@ Please note that this password generator is intended for educational purposes an
 
 Site: https://brlumar.github.io/magic_password_generator_reloaded/
 Repo: https://github.com/brlumar/magic_password_generator_reloaded
+
+![Alt text](image.png)
